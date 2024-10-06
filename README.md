@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/iamprincetj/intro-section-with-dropdown-navigation)
+- Live Site URL: [Here](https://iamprincetj.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
